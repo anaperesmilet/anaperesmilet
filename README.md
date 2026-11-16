@@ -25,15 +25,12 @@ Olá! Sou estudante do **1º ano de Desenvolvimento de Sistemas na ETEC**. Estou
 
 ### ⌘ Meu espaço de estudos
 
-Tecnologias que estou aprendendo:
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </div>
 
-- Python
 - HTML
 - CSS
 - JavaScript
